@@ -3,4 +3,5 @@
 - Estado del juego: Finalizado
 
 Para iniciar el juego primero debes poner:
+
 ```npm install react```
